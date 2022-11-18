@@ -2,7 +2,7 @@
 layout: post
 title: Exercism - Difference of Squares
 date: '2022-11-18 18:35:51 +0800'
-categories: [code, c]
+categories: [Code, C]
 tags: [c, exercism]     # tag names should always be lowercase
 author: <dev1>
 math: true
