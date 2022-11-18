@@ -17,7 +17,7 @@ curl -sL https://devoalda.gitlab.io/business_card
 {: file="Curl-able Business Card.sh" }
 
 ## Programming Languages
-I am a hobbist programmer with eperience in:
+I am a hobbist programmer with experience in:
 - C
 - Python
 - Bash
@@ -44,3 +44,9 @@ I'm really interested in Linux and have experience with:
 
 # Explore
 This site is an open-source project. You can find the source code on [GitHub](https://github.com/Devoalda/devoalda.github.io). This is a work in progress and I'll be updating it as I learn more.
+
+# Important commands
+This is for future reference.
+
+- `bundle exec jekyll serve` to serve the site locally
+- `bundle exec jekyll post "Page title" --timestamp-format "%Y-%m-%d %H:%M:%S %z"` to create a new post
