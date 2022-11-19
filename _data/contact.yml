@@ -8,6 +8,10 @@
   icon: 'fab fa-gitlab'
   url: 'https://gitlab.com/devoalda'
 -
+  type: HackerRank
+  icon: 'fab fa-hackerrank'
+  url: 'https://www.hackerrank.com/0xdeafc0de_ly64y'
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
