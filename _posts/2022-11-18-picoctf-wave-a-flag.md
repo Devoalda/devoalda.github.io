@@ -4,7 +4,7 @@ title: PicoCTF - Wave a flag
 date: '2022-10-12 10:37:00 +0800'
 categories: [CTF, PicoCTF]
 tags: [ctf,picoctf]     
-author: <dev1>
+author: dev1
 math: true
 ---
 # Description

@@ -3,7 +3,7 @@ title: HackerRank - Sum of Digits of a Five Digit Number
 date: 2022-11-13 08:00:00 
 categories: [Code, C]
 tags: [c, hackerrank]     # TAG names should always be lowercase
-author: <dev1>
+author: dev1
 math: true
 ---
 

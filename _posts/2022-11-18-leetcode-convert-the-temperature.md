@@ -4,7 +4,7 @@ title: Leetcode - Convert the temperature (2469)
 date: '2022-11-18 20:51:00 +0800'
 categories: [Code, C]
 tags: [c, leetcode]     # TAG names should always be lowercase
-author: <dev1>
+author: dev1
 math: true
 ---
 

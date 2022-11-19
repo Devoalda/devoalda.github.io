@@ -4,7 +4,7 @@ title: Leetcode - Ugly Number(263)
 date: '2022-11-18 21:23:39 +0800'
 categories: [Code, C]
 tags: [c, leetcode]     # TAG names should always be lowercase
-author: <dev1>
+author: dev1
 math: true
 ---
 
