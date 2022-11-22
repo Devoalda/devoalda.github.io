@@ -37,10 +37,8 @@ Where $n!=n\times(n-1)\times(n-2)\times\cdots\times2\times1$ and $n! = n\times(n
 The [Wikipedia page](https://en.wikipedia.org/wiki/Factorial) has a more detailed explanation of the factorial function.
 
 # Code
-
 ## Psuedocode
 This is the psuedocode for the factorial function:
-
 ```
 BEGIN
     FUNCTION factorial(n)
@@ -53,7 +51,6 @@ BEGIN
 END
 ```
 {: file="Factorial Function Psuedocode" }
-
 
 ## Factorial in C
 This is a sample factorial function that gets the user's input and returns the factorial of the input, written in C.
